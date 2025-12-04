@@ -1,5 +1,8 @@
 # 🔧 Lot Estimation using OCR and Deep Learning
 
+## Data Curation: Omar
+## Programmer: Trevon
+
 ## Project Overview
 
 This project combines Optical Character Recognition (OCR) with deep learning and a geometric packing algorithm to estimate the number of potential buildable lots within a given plot boundary. The system processes survey plat images to extract dimensions, calculates theoretical lot placements, and uses a Convolutional Neural Network (CNN) to classify image characteristics, ultimately providing a comprehensive lot prediction.
